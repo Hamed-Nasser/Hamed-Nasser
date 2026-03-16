@@ -31,5 +31,5 @@ Internal CRM system for managing client requirements and communication.
 HR operations management system with employee services.
 
 ## 📫 Contact
-- LinkedIn: (your link)
-- Email: your email
+- LinkedIn: https://www.linkedin.com/in/hamed-nasser-835b3ab1/
+- Email: hamednasser89@gmail.com
