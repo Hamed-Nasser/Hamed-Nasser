@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Hamed Nasser 👋
 
-<!--
-**Hamed-Nasser/Hamed-Nasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer | Laravel | PHP | WordPress | ERP Systems
 
-Here are some ideas to get you started:
+I specialize in building business systems including HR platforms, ERP tools,
+CRM systems, and automation solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as Software Engineer / IT Coordinator at Al Jawdah Group of Companies.
+
+## 🚀 Tech Stack
+- PHP / Laravel
+- MySQL
+- JavaScript
+- WordPress / WooCommerce
+- API Integrations
+- ERP Systems
+- Git / Linux
+
+## 🧩 Featured Projects
+
+### Employee Self Service Portal
+Secure employee portal with OTP verification for updating job descriptions.
+
+### Match Making System
+Exhibition meeting booking platform with real-time slot validation.
+
+### Client Management System
+Internal CRM system for managing client requirements and communication.
+
+### HR Management System
+HR operations management system with employee services.
+
+## 📫 Contact
+- LinkedIn: (your link)
+- Email: your email
