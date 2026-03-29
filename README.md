@@ -15,6 +15,7 @@ Currently working as Software Engineer / IT Coordinator at Al Jawdah Group of Co
 - API Integrations
 - ERP Systems
 - Git / Linux
+- Core Web Vitals
 
 ## 🧩 Featured Projects
 
