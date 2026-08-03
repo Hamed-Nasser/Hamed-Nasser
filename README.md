@@ -1,36 +1,86 @@
 # Hi, I'm Hamed Nasser 👋
 
-Full Stack Web Developer | Laravel | PHP | WordPress | ERP Systems
+### Full Stack Developer | Laravel | PHP | Business Process Automation | Digital Transformation
 
-I specialize in building business systems including HR platforms, ERP tools,
-CRM systems, and automation solutions.
+I'm a Full Stack Developer with experience designing and building business applications that improve operational efficiency. My work focuses on transforming manual business processes into scalable digital solutions using Laravel, PHP, MySQL, JavaScript, and WordPress.
 
-Currently working as Software Engineer / IT Coordinator at Al Jawdah Group of Companies.
+Currently, I work as a **Software Engineer / IT Coordinator** at **Al Jawdah Group of Companies**, where I collaborate with production, sales, HR, and management teams to develop software that supports real business operations.
 
-## 🚀 Tech Stack
-- PHP / Laravel
-- MySQL
-- JavaScript
-- WordPress / WooCommerce
-- API Integrations
-- ERP Systems
-- Git / Linux
-- Core Web Vitals
+## 🚀 Core Expertise
 
-## 🧩 Featured Projects
+### Backend
 
-### Employee Self Service Portal
-Secure employee portal with OTP verification for updating job descriptions.
+* PHP
+* Laravel
+* MySQL
+* REST APIs
+* Authentication & Authorization
+* Database Design
 
-### Match Making System
-Exhibition meeting booking platform with real-time slot validation.
+### Frontend
 
-### Client Management System
-Internal CRM system for managing client requirements and communication.
+* JavaScript
+* jQuery
+* HTML5
+* CSS3
+* Bootstrap
+* Responsive UI Development
 
-### HR Management System
-HR operations management system with employee services.
+### CMS & SEO
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/hamed-nasser-835b3ab1/
-- Email: hamednasser89@gmail.com
+* WordPress
+* WooCommerce
+* Technical SEO
+* Google Analytics
+* Google Search Console
+
+### Business Solutions
+
+* HR Management Systems
+* CRM Applications
+* Production & Manufacturing Systems
+* Business Process Automation
+* ERP Workflow Understanding
+
+## 💼 Featured Projects
+
+### 🏭 Production Intelligence System
+
+A manufacturing management platform developed for ceramic production to monitor production orders, workflows, departments, and operational progress. The system improves production visibility and supports better decision-making through centralized data and reporting.
+
+### 👥 HR Management System
+
+A web-based HR solution that streamlines employee management, attendance, leave processes, and internal administrative workflows.
+
+### 🤝 Sales & CRM Application
+
+A customer relationship management system for handling customer records, sales activities, and business workflows.
+
+### 🌐 Corporate Website & SEO
+
+Developed and optimized corporate websites with a focus on performance, technical SEO, analytics integration, and improved search visibility.
+
+### 🧩 Employee Self-Service Portal
+
+A secure employee portal featuring OTP verification and self-service functionality for updating employee information and job descriptions.
+
+### 📅 Match Making System
+
+An exhibition meeting scheduling platform with real-time slot validation, helping exhibitors and buyers efficiently manage appointments.
+
+## 🌱 Currently Learning
+
+* React
+* Next.js
+* Odoo Development
+* Docker
+* TypeScript
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/hamed-nasser-835b3ab1](http://www.linkedin.com/in/hamed-nasser-835b3ab1)
+* Email: [hamednasser89@gmail.com](mailto:hamednasser89@gmail.com)
+
+---
+
+> I enjoy building software that solves real business problems, automates workflows, and delivers measurable value to organizations.
